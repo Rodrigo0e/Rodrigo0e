@@ -22,14 +22,6 @@ Desenvolvedor Full Stack especializado em aplicações web modernas, performáti
 
 <hr />
 
-## ✨ Projetos em destaque
-
-- [Portfolio Pessoal](https://github.com/TabsMacedo/portfolio-pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
-- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Aplicação com foco em usabilidade e integração de recursos modernos.
-- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Solução web com arquitetura escalável e foco em boas práticas.
-- [Register Students Frontend](https://github.com/TabsMacedo/register-students-frontend) – Interface intuitiva para gestão de alunos.
-- [Register Students Backend](https://github.com/TabsMacedo/register-students-backend) – API robusta com autenticação e operações CRUD.
-
 <hr />
 
 ## 🚀 Tecnologias que mais utilizo
