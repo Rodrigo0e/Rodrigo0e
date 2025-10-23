@@ -21,13 +21,3 @@ Desenvolvedor Full Stack especializado em aplicações web modernas, performáti
 - Busco criar soluções tecnológicas com impacto real, propósito e acessibilidade.
 
 <hr />
-
-<hr />
-
-## 🚀 Tecnologias que mais utilizo
-
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
-
-<hr />
